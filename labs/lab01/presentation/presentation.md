@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа №1
-subtitle: Простейший шаблон
+subtitle: Установка и конфигурация ОС на виртуальную машину
 author:
   - Цвелев С.А.
 institute:
